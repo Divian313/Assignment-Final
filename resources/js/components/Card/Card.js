@@ -25,14 +25,14 @@ function Card({ item }) {
                         {item.discount_price ? (
                             <>
                                 <span className="current bwm-line-through">
-                                    {item.book_price}
+                                    {item.book_price}<span>$</span>
                                 </span>
                                 <span className="discount">
-                                    {item.discount_price}
+                                    {item.discount_price}<span>$</span>
                                 </span>
                             </>
                         ) : (
-                            <span className="current">{item.book_price}</span>
+                            <span className="current">{item.book_price}$</span>
                         )}
                     </div>
                 </div>

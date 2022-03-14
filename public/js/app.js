@@ -7888,7 +7888,7 @@ var product_12_image_02 = __webpack_require__(/*! ../image/products/img12 - Copy
 
 var products = [{
   title: "Atomic Habits",
-  price: '189000',
+  price: '18',
   image01: product_01_image_01,
   image02: product_01_image_02,
   categorySlug: "science",
@@ -7898,7 +7898,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "C.J.Box",
-  price: '159000',
+  price: '15',
   image01: product_02_image_01,
   image02: product_02_image_02,
   categorySlug: "science",
@@ -7908,7 +7908,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Dolly Parton and James Patterson",
-  price: '190000',
+  price: '19',
   image01: product_03_image_01,
   image02: product_03_image_02,
   categorySlug: "science",
@@ -7918,7 +7918,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Family Money",
-  price: '194000',
+  price: '19',
   image01: product_04_image_01,
   image02: product_04_image_02,
   categorySlug: "science",
@@ -7928,7 +7928,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "It ends with US",
-  price: '194000',
+  price: '19',
   image01: product_05_image_01,
   image02: product_05_image_02,
   categorySlug: "science",
@@ -7938,7 +7938,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Midnight Library",
-  price: '194000',
+  price: '19',
   image01: product_06_image_01,
   image02: product_06_image_02,
   categorySlug: "science",
@@ -7948,7 +7948,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "One Damn Thing After Another",
-  price: '194000',
+  price: '19',
   image01: product_07_image_01,
   image02: product_07_image_02,
   categorySlug: "novel",
@@ -7958,7 +7958,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Power",
-  price: '194000',
+  price: '19',
   image01: product_08_image_01,
   image02: product_08_image_02,
   categorySlug: "novel",
@@ -7968,7 +7968,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Changing World Order",
-  price: '194000',
+  price: '19',
   image01: product_09_image_01,
   image02: product_09_image_02,
   categorySlug: "novel",
@@ -7978,7 +7978,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Reminders Of Him",
-  price: '194000',
+  price: '19',
   image01: product_10_image_01,
   image02: product_10_image_02,
   categorySlug: "detective",
@@ -7988,7 +7988,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Body Keeps The Score",
-  price: '194000',
+  price: '19',
   image01: product_11_image_01,
   image02: product_11_image_02,
   categorySlug: "detective",
@@ -7998,7 +7998,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Ugly Love",
-  price: '194000',
+  price: '19',
   image01: product_12_image_01,
   image02: product_12_image_02,
   categorySlug: "detective",
@@ -8008,7 +8008,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Harry Potter",
-  price: '189000',
+  price: '18',
   image01: product_01_image_01,
   image02: product_01_image_02,
   categorySlug: "science",
@@ -8018,7 +8018,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Mecca: A Novel",
-  price: '159000',
+  price: '15',
   image01: product_02_image_01,
   image02: product_02_image_02,
   categorySlug: "science",
@@ -8028,7 +8028,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "War and Peace",
-  price: '190000',
+  price: '19',
   image01: product_03_image_01,
   image02: product_03_image_02,
   categorySlug: "science",
@@ -8038,7 +8038,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Lolita",
-  price: '194000',
+  price: '19',
   image01: product_08_image_01,
   image02: product_08_image_02,
   categorySlug: "novel",
@@ -8048,7 +8048,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Hamlet",
-  price: '194000',
+  price: '19',
   image01: product_09_image_01,
   image02: product_09_image_02,
   categorySlug: "novel",
@@ -8058,7 +8058,7 @@ var products = [{
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Odyssey",
-  price: '194000',
+  price: '19',
   image01: product_10_image_01,
   image02: product_10_image_02,
   categorySlug: "detective",
@@ -8220,16 +8220,20 @@ function Card(_ref) {
         children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
           className: "price",
           children: item.discount_price ? /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.Fragment, {
-            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
+            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("span", {
               className: "current bwm-line-through",
-              children: item.book_price
-            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
+              children: [item.book_price, /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
+                children: "$"
+              })]
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("span", {
               className: "discount",
-              children: item.discount_price
+              children: [item.discount_price, /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
+                children: "$"
+              })]
             })]
-          }) : /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
+          }) : /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("span", {
             className: "current",
-            children: item.book_price
+            children: [item.book_price, "$"]
           })
         })
       })]
@@ -8442,9 +8446,11 @@ var CartItem = function CartItem(props) {
           to: "/catalog/".concat(item.slug),
           children: "".concat(item.product.title, " - ").concat(item.color, " - ").concat(item.size)
         })
-      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)("div", {
+      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
         className: "cart__item__info__price",
-        children: (0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_4__["default"])(item.price)
+        children: [(0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_4__["default"])(item.price), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)("span", {
+          children: "$"
+        })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)("div", {
         className: "cart__item__info__quantity",
         children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
@@ -9157,9 +9163,13 @@ var ProductCard = function ProductCard(props) {
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)("div", {
         className: "product-card__price",
         children: [(0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_5__["default"])(props.price), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("span", {
+          children: "$"
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("span", {
           className: "product-card__price__old",
-          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("del", {
-            children: (0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_5__["default"])(399000)
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)("del", {
+            children: [(0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_5__["default"])(39), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("span", {
+              children: "$"
+            })]
           })
         })]
       })]
@@ -9388,9 +9398,11 @@ var ProductView = function ProductView(props) {
         children: product.title
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("div", {
         className: "product__info__item",
-        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("span", {
+        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("span", {
           className: "product__info__item__price",
-          children: (0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_6__["default"])(product.price)
+          children: [(0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_6__["default"])(product.price), " ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("span", {
+            children: "$"
+          })]
         })
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("div", {
         className: "product__info__item",
@@ -9722,8 +9734,8 @@ var Cart = function Cart() {
             className: "cart__info__txt__price",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("span", {
               children: "Total:"
-            }), " ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("span", {
-              children: (0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_6__["default"])(Number(totalPrice))
+            }), " ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("span", {
+              children: [(0,_utils_numberWithCommas__WEBPACK_IMPORTED_MODULE_6__["default"])(Number(totalPrice)), "$"]
             })]
           })]
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("div", {

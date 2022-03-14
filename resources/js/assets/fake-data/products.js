@@ -38,7 +38,7 @@ const product_12_image_02 = require('../image/products/img12 - Copy.png')
 const products = [
     {
         title: "Atomic Habits",
-        price: '189000',
+        price: '18',
         image01: product_01_image_01,
         image02: product_01_image_02,
         categorySlug: "science",
@@ -49,7 +49,7 @@ const products = [
     },
     {
         title: "C.J.Box",
-        price: '159000',
+        price: '15',
         image01: product_02_image_01,
         image02: product_02_image_02,
         categorySlug: "science",
@@ -60,7 +60,7 @@ const products = [
     },
     {
         title: "Dolly Parton and James Patterson",
-        price: '190000',
+        price: '19',
         image01: product_03_image_01,
         image02: product_03_image_02,
         categorySlug: "science",
@@ -71,7 +71,7 @@ const products = [
     },
     {
         title: "Family Money",
-        price: '194000',
+        price: '19',
         image01: product_04_image_01,
         image02: product_04_image_02,
         categorySlug: "science",
@@ -82,7 +82,7 @@ const products = [
     },
     {
         title: "It ends with US",
-        price: '194000',
+        price: '19',
         image01: product_05_image_01,
         image02: product_05_image_02,
         categorySlug: "science",
@@ -93,7 +93,7 @@ const products = [
     },
     {
         title: "The Midnight Library",
-        price: '194000',
+        price: '19',
         image01: product_06_image_01,
         image02: product_06_image_02,
         categorySlug: "science",
@@ -104,7 +104,7 @@ const products = [
     },
     {
         title: "One Damn Thing After Another",
-        price: '194000',
+        price: '19',
         image01: product_07_image_01,
         image02: product_07_image_02,
         categorySlug: "novel",
@@ -115,7 +115,7 @@ const products = [
     },
     {
         title: "Power",
-        price: '194000',
+        price: '19',
         image01: product_08_image_01,
         image02: product_08_image_02,
         categorySlug: "novel",
@@ -126,7 +126,7 @@ const products = [
     },
     {
         title: "The Changing World Order",
-        price: '194000',
+        price: '19',
         image01: product_09_image_01,
         image02: product_09_image_02,
         categorySlug: "novel",
@@ -137,7 +137,7 @@ const products = [
     },
     {
         title: "Reminders Of Him",
-        price: '194000',
+        price: '19',
         image01: product_10_image_01,
         image02: product_10_image_02,
         categorySlug: "detective",
@@ -148,7 +148,7 @@ const products = [
     },
     {
         title: "The Body Keeps The Score",
-        price: '194000',
+        price: '19',
         image01: product_11_image_01,
         image02: product_11_image_02,
         categorySlug: "detective",
@@ -159,7 +159,7 @@ const products = [
     },
     {
         title: "Ugly Love",
-        price: '194000',
+        price: '19',
         image01: product_12_image_01,
         image02: product_12_image_02,
         categorySlug: "detective",
@@ -170,7 +170,7 @@ const products = [
     },
     {
         title: "Harry Potter",
-        price: '189000',
+        price: '18',
         image01: product_01_image_01,
         image02: product_01_image_02,
         categorySlug: "science",
@@ -181,7 +181,7 @@ const products = [
     },
     {
         title: "Mecca: A Novel",
-        price: '159000',
+        price: '15',
         image01: product_02_image_01,
         image02: product_02_image_02,
         categorySlug: "science",
@@ -192,7 +192,7 @@ const products = [
     },
     {
         title: "War and Peace",
-        price: '190000',
+        price: '19',
         image01: product_03_image_01,
         image02: product_03_image_02,
         categorySlug: "science",
@@ -203,7 +203,7 @@ const products = [
     },
     {
         title: "Lolita",
-        price: '194000',
+        price: '19',
         image01: product_08_image_01,
         image02: product_08_image_02,
         categorySlug: "novel",
@@ -214,7 +214,7 @@ const products = [
     },
     {
         title: "Hamlet",
-        price: '194000',
+        price: '19',
         image01: product_09_image_01,
         image02: product_09_image_02,
         categorySlug: "novel",
@@ -225,7 +225,7 @@ const products = [
     },
     {
         title: "The Odyssey",
-        price: '194000',
+        price: '19',
         image01: product_10_image_01,
         image02: product_10_image_02,
         categorySlug: "detective",
