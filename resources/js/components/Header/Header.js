@@ -5,7 +5,7 @@ function Header() {
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="http://127.0.0.1:8000/">
             BOOKWORM
           </a>
           <button
@@ -22,23 +22,23 @@ function Header() {
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
+                <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/">
                   Home
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://127.0.0.1:8000/catalog">
                   Shop
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://127.0.0.1:8000/about">
                   About
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
-                  Cart(0)
+                <a class="nav-link" href="http://127.0.0.1:8000/cart">
+                  Cart
                 </a>
               </li>
             </ul>

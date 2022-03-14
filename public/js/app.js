@@ -7831,166 +7831,166 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+/* harmony import */ var _image_products_img1_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../image/products/img1.png */ "./resources/js/assets/image/products/img1.png");
+/* harmony import */ var _image_products_img1_Copy_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../image/products/img1 - Copy.png */ "./resources/js/assets/image/products/img1 - Copy.png");
+/* harmony import */ var _image_products_img2_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../image/products/img2.png */ "./resources/js/assets/image/products/img2.png");
+/* harmony import */ var _image_products_img2_Copy_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../image/products/img2 - Copy.png */ "./resources/js/assets/image/products/img2 - Copy.png");
+/* harmony import */ var _image_products_img3_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../image/products/img3.png */ "./resources/js/assets/image/products/img3.png");
+/* harmony import */ var _image_products_img3_Copy_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../image/products/img3 - Copy.png */ "./resources/js/assets/image/products/img3 - Copy.png");
+/* harmony import */ var _image_products_img4_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../image/products/img4.png */ "./resources/js/assets/image/products/img4.png");
+/* harmony import */ var _image_products_img4_Copy_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../image/products/img4 - Copy.png */ "./resources/js/assets/image/products/img4 - Copy.png");
+/* harmony import */ var _image_products_img5_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../image/products/img5.png */ "./resources/js/assets/image/products/img5.png");
+/* harmony import */ var _image_products_img5_Copy_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../image/products/img5 - Copy.png */ "./resources/js/assets/image/products/img5 - Copy.png");
+/* harmony import */ var _image_products_img6_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../image/products/img6.png */ "./resources/js/assets/image/products/img6.png");
+/* harmony import */ var _image_products_img6_Copy_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../image/products/img6 - Copy.png */ "./resources/js/assets/image/products/img6 - Copy.png");
+/* harmony import */ var _image_products_img7_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../image/products/img7.png */ "./resources/js/assets/image/products/img7.png");
+/* harmony import */ var _image_products_img7_Copy_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../image/products/img7 - Copy.png */ "./resources/js/assets/image/products/img7 - Copy.png");
+/* harmony import */ var _image_products_img8_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../image/products/img8.png */ "./resources/js/assets/image/products/img8.png");
+/* harmony import */ var _image_products_img8_Copy_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../image/products/img8 - Copy.png */ "./resources/js/assets/image/products/img8 - Copy.png");
+/* harmony import */ var _image_products_img9_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../image/products/img9.png */ "./resources/js/assets/image/products/img9.png");
+/* harmony import */ var _image_products_img9_Copy_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../image/products/img9 - Copy.png */ "./resources/js/assets/image/products/img9 - Copy.png");
+/* harmony import */ var _image_products_img10_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../image/products/img10.png */ "./resources/js/assets/image/products/img10.png");
+/* harmony import */ var _image_products_img10_Copy_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../image/products/img10 - Copy.png */ "./resources/js/assets/image/products/img10 - Copy.png");
+/* harmony import */ var _image_products_img11_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../image/products/img11.png */ "./resources/js/assets/image/products/img11.png");
+/* harmony import */ var _image_products_img11_Copy_png__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ../image/products/img11 - Copy.png */ "./resources/js/assets/image/products/img11 - Copy.png");
+/* harmony import */ var _image_products_img12_png__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ../image/products/img12.png */ "./resources/js/assets/image/products/img12.png");
+/* harmony import */ var _image_products_img12_Copy_png__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ../image/products/img12 - Copy.png */ "./resources/js/assets/image/products/img12 - Copy.png");
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { _defineProperty(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
-var product_01_image_01 = __webpack_require__(/*! ../image/products/img1.png */ "./resources/js/assets/image/products/img1.png");
 
-var product_01_image_02 = __webpack_require__(/*! ../image/products/img1 - Copy.png */ "./resources/js/assets/image/products/img1 - Copy.png"); // const product_01_image_03 = require('../images/products/product-01 (3).jpg')
+ // import product_01_image_03 from'../images/products/product-01 (3.jpg'
 
 
-var product_02_image_01 = __webpack_require__(/*! ../image/products/img2.png */ "./resources/js/assets/image/products/img2.png");
 
-var product_02_image_02 = __webpack_require__(/*! ../image/products/img2 - Copy.png */ "./resources/js/assets/image/products/img2 - Copy.png");
 
-var product_03_image_01 = __webpack_require__(/*! ../image/products/img3.png */ "./resources/js/assets/image/products/img3.png");
 
-var product_03_image_02 = __webpack_require__(/*! ../image/products/img3 - Copy.png */ "./resources/js/assets/image/products/img3 - Copy.png");
 
-var product_04_image_01 = __webpack_require__(/*! ../image/products/img4.png */ "./resources/js/assets/image/products/img4.png");
 
-var product_04_image_02 = __webpack_require__(/*! ../image/products/img4 - Copy.png */ "./resources/js/assets/image/products/img4 - Copy.png");
 
-var product_05_image_01 = __webpack_require__(/*! ../image/products/img5.png */ "./resources/js/assets/image/products/img5.png");
 
-var product_05_image_02 = __webpack_require__(/*! ../image/products/img5 - Copy.png */ "./resources/js/assets/image/products/img5 - Copy.png");
 
-var product_06_image_01 = __webpack_require__(/*! ../image/products/img6.png */ "./resources/js/assets/image/products/img6.png");
 
-var product_06_image_02 = __webpack_require__(/*! ../image/products/img6 - Copy.png */ "./resources/js/assets/image/products/img6 - Copy.png");
 
-var product_07_image_01 = __webpack_require__(/*! ../image/products/img7.png */ "./resources/js/assets/image/products/img7.png");
 
-var product_07_image_02 = __webpack_require__(/*! ../image/products/img7 - Copy.png */ "./resources/js/assets/image/products/img7 - Copy.png");
 
-var product_08_image_01 = __webpack_require__(/*! ../image/products/img8.png */ "./resources/js/assets/image/products/img8.png");
 
-var product_08_image_02 = __webpack_require__(/*! ../image/products/img8 - Copy.png */ "./resources/js/assets/image/products/img8 - Copy.png");
 
-var product_09_image_01 = __webpack_require__(/*! ../image/products/img9.png */ "./resources/js/assets/image/products/img9.png");
 
-var product_09_image_02 = __webpack_require__(/*! ../image/products/img9 - Copy.png */ "./resources/js/assets/image/products/img9 - Copy.png");
 
-var product_10_image_01 = __webpack_require__(/*! ../image/products/img10.png */ "./resources/js/assets/image/products/img10.png");
 
-var product_10_image_02 = __webpack_require__(/*! ../image/products/img10 - Copy.png */ "./resources/js/assets/image/products/img10 - Copy.png");
 
-var product_11_image_01 = __webpack_require__(/*! ../image/products/img11.png */ "./resources/js/assets/image/products/img11.png");
 
-var product_11_image_02 = __webpack_require__(/*! ../image/products/img11 - Copy.png */ "./resources/js/assets/image/products/img11 - Copy.png");
 
-var product_12_image_01 = __webpack_require__(/*! ../image/products/img12.png */ "./resources/js/assets/image/products/img12.png");
-
-var product_12_image_02 = __webpack_require__(/*! ../image/products/img12 - Copy.png */ "./resources/js/assets/image/products/img12 - Copy.png");
 
 var products = [{
   title: "Atomic Habits",
   price: '18',
-  image01: product_01_image_01,
-  image02: product_01_image_02,
+  image01: _image_products_img1_png__WEBPACK_IMPORTED_MODULE_0__["default"],
+  image02: _image_products_img1_Copy_png__WEBPACK_IMPORTED_MODULE_1__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "red", "ErnestHemingway"],
-  slug: "science-dinosaur-01",
+  slug: "science-01",
   size: ["1Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "C.J.Box",
   price: '15',
-  image01: product_02_image_01,
-  image02: product_02_image_02,
+  image01: _image_products_img2_png__WEBPACK_IMPORTED_MODULE_2__["default"],
+  image02: _image_products_img2_Copy_png__WEBPACK_IMPORTED_MODULE_3__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "red", "WilliamFaulkner"],
-  slug: "science-dinosaur-02",
+  slug: "science-02",
   size: ["2Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Dolly Parton and James Patterson",
   price: '19',
-  image01: product_03_image_01,
-  image02: product_03_image_02,
+  image01: _image_products_img3_png__WEBPACK_IMPORTED_MODULE_4__["default"],
+  image02: _image_products_img3_Copy_png__WEBPACK_IMPORTED_MODULE_5__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "red", "ErnestHemingway", "FyodorDostoevsky"],
-  slug: "science-dinosaur-03",
+  slug: "science-03",
   size: ["3Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Family Money",
   price: '19',
-  image01: product_04_image_01,
-  image02: product_04_image_02,
+  image01: _image_products_img4_png__WEBPACK_IMPORTED_MODULE_6__["default"],
+  image02: _image_products_img4_Copy_png__WEBPACK_IMPORTED_MODULE_7__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "ErnestHemingway", "WilliamFaulkner"],
-  slug: "science-polo-04",
+  slug: "science-04",
   size: ["4Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "It ends with US",
   price: '19',
-  image01: product_05_image_01,
-  image02: product_05_image_02,
+  image01: _image_products_img5_png__WEBPACK_IMPORTED_MODULE_8__["default"],
+  image02: _image_products_img5_Copy_png__WEBPACK_IMPORTED_MODULE_9__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "GeorgeOrwell"],
-  slug: "science-polo-05",
+  slug: "science-05",
   size: ["5Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Midnight Library",
   price: '19',
-  image01: product_06_image_01,
-  image02: product_06_image_02,
+  image01: _image_products_img6_png__WEBPACK_IMPORTED_MODULE_10__["default"],
+  image02: _image_products_img6_Copy_png__WEBPACK_IMPORTED_MODULE_11__["default"],
   categorySlug: "science",
   colors: ["JKRowling"],
-  slug: "science-polo-06",
+  slug: "science-06",
   size: ["1Star", "2Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "One Damn Thing After Another",
   price: '19',
-  image01: product_07_image_01,
-  image02: product_07_image_02,
+  image01: _image_products_img7_png__WEBPACK_IMPORTED_MODULE_12__["default"],
+  image02: _image_products_img7_Copy_png__WEBPACK_IMPORTED_MODULE_13__["default"],
   categorySlug: "novel",
   colors: ["WilliamShakespeare", "red", "ErnestHemingway", "WilliamFaulkner"],
-  slug: "novel-caro-07",
+  slug: "novel-07",
   size: ["2Star", "3Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Power",
   price: '19',
-  image01: product_08_image_01,
-  image02: product_08_image_02,
+  image01: _image_products_img8_png__WEBPACK_IMPORTED_MODULE_14__["default"],
+  image02: _image_products_img8_Copy_png__WEBPACK_IMPORTED_MODULE_15__["default"],
   categorySlug: "novel",
   colors: ["WilliamShakespeare", "red", "JKRowling"],
-  slug: "novel-dai-tay-08",
+  slug: "novel-08",
   size: ["2Star", "3Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Changing World Order",
   price: '19',
-  image01: product_09_image_01,
-  image02: product_09_image_02,
+  image01: _image_products_img9_png__WEBPACK_IMPORTED_MODULE_16__["default"],
+  image02: _image_products_img9_Copy_png__WEBPACK_IMPORTED_MODULE_17__["default"],
   categorySlug: "novel",
   colors: ["WilliamShakespeare", "WilliamFaulkner"],
-  slug: "novel-tay-dai-09",
+  slug: "novel-09",
   size: ["3Star", "4Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Reminders Of Him",
   price: '19',
-  image01: product_10_image_01,
-  image02: product_10_image_02,
+  image01: _image_products_img10_png__WEBPACK_IMPORTED_MODULE_18__["default"],
+  image02: _image_products_img10_Copy_png__WEBPACK_IMPORTED_MODULE_19__["default"],
   categorySlug: "detective",
   colors: ["WilliamFaulkner", "JKRowling"],
-  slug: "detective-phong-cach-10",
+  slug: "detective-10",
   size: ["4Star", "5Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Body Keeps The Score",
   price: '19',
-  image01: product_11_image_01,
-  image02: product_11_image_02,
+  image01: _image_products_img11_png__WEBPACK_IMPORTED_MODULE_20__["default"],
+  image02: _image_products_img11_Copy_png__WEBPACK_IMPORTED_MODULE_21__["default"],
   categorySlug: "detective",
   colors: ["WilliamFaulkner", "JKRowling"],
   slug: "detective-11",
@@ -7999,8 +7999,8 @@ var products = [{
 }, {
   title: "Ugly Love",
   price: '19',
-  image01: product_12_image_01,
-  image02: product_12_image_02,
+  image01: _image_products_img12_png__WEBPACK_IMPORTED_MODULE_22__["default"],
+  image02: _image_products_img12_Copy_png__WEBPACK_IMPORTED_MODULE_23__["default"],
   categorySlug: "detective",
   colors: ["WilliamFaulkner"],
   slug: "detective-12",
@@ -8009,61 +8009,61 @@ var products = [{
 }, {
   title: "Harry Potter",
   price: '18',
-  image01: product_01_image_01,
-  image02: product_01_image_02,
+  image01: _image_products_img1_png__WEBPACK_IMPORTED_MODULE_0__["default"],
+  image02: _image_products_img1_Copy_png__WEBPACK_IMPORTED_MODULE_1__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "red"],
-  slug: "science-dinosaur-13",
+  slug: "science-13",
   size: ["2Star", "4Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Mecca: A Novel",
   price: '15',
-  image01: product_02_image_01,
-  image02: product_02_image_02,
+  image01: _image_products_img2_png__WEBPACK_IMPORTED_MODULE_2__["default"],
+  image02: _image_products_img2_Copy_png__WEBPACK_IMPORTED_MODULE_3__["default"],
   categorySlug: "science",
   colors: ["WilliamShakespeare", "WilliamFaulkner"],
-  slug: "science-dinosaur-14",
+  slug: "science-14",
   size: ["3Star", "5Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "War and Peace",
   price: '19',
-  image01: product_03_image_01,
-  image02: product_03_image_02,
+  image01: _image_products_img3_png__WEBPACK_IMPORTED_MODULE_4__["default"],
+  image02: _image_products_img3_Copy_png__WEBPACK_IMPORTED_MODULE_5__["default"],
   categorySlug: "science",
   colors: ["red", "WilliamFaulkner"],
-  slug: "science-dinosaur-15",
+  slug: "science-15",
   size: ["4Star", "1Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Lolita",
   price: '19',
-  image01: product_08_image_01,
-  image02: product_08_image_02,
+  image01: _image_products_img8_png__WEBPACK_IMPORTED_MODULE_14__["default"],
+  image02: _image_products_img8_Copy_png__WEBPACK_IMPORTED_MODULE_15__["default"],
   categorySlug: "novel",
   colors: ["WilliamFaulkner", "JKRowling"],
-  slug: "novel-dai-tay-16",
+  slug: "novel-16",
   size: ["5Star", "2Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "Hamlet",
   price: '19',
-  image01: product_09_image_01,
-  image02: product_09_image_02,
+  image01: _image_products_img9_png__WEBPACK_IMPORTED_MODULE_16__["default"],
+  image02: _image_products_img9_Copy_png__WEBPACK_IMPORTED_MODULE_17__["default"],
   categorySlug: "novel",
   colors: ["WilliamShakespeare", "WilliamFaulkner"],
-  slug: "novel-tay-dai-17",
+  slug: "novel-17",
   size: ["1Star", "4Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 }, {
   title: "The Odyssey",
   price: '19',
-  image01: product_10_image_01,
-  image02: product_10_image_02,
+  image01: _image_products_img10_png__WEBPACK_IMPORTED_MODULE_18__["default"],
+  image02: _image_products_img10_Copy_png__WEBPACK_IMPORTED_MODULE_19__["default"],
   categorySlug: "detective",
   colors: ["WilliamFaulkner", "JKRowling"],
-  slug: "detective-phong-cach-18",
+  slug: "detective-18",
   size: ["2Star", "5Star"],
   description: "From Olen Steinhauer, the author of New York Times bestseller The Tourist, comes his intimate, most cerebral, and most shocking novel to date, All the Old Knives―now a Major Motion Picture Starring Chris Pine and Thandiwe Newton. Six years ago in Vienna, terrorists took over a hundred hostages, and the rescue attempt went terribly wrong. The CIA's Vienna station was witness to this tragedy, gathering intel from its sources during those tense hours, assimilating facts from the ground and from an agent on the inside. So when it all went wrong, the question had to be asked: Had their agent been compromised, and how? Two of the CIA's case officers in Vienna, Henry Pelham and Celia Harrison, were lovers at the time, and on the night of the hostage crisis Celia decided she'd had enough. She left the agency, married and had children, and is now living an ordinary life in the idyllic town of Carmel-by-the-Sea. Henry is still a case officer in Vienna, and has traveled to California to see her one more time, to relive the past, maybe, or to put it behind him once and for all. But neither of them can forget that long-ago question: Had their agent been compromised? If so, how? Each also wonders what role tonight's dinner companion might have played in the way the tragedy unfolded six years ago."
 } // 18 products
@@ -8596,10 +8596,10 @@ function Feature(_ref) {
 
 /***/ }),
 
-/***/ "./resources/js/components/Footer.jsx":
-/*!********************************************!*\
-  !*** ./resources/js/components/Footer.jsx ***!
-  \********************************************/
+/***/ "./resources/js/components/Footer/Footer.js":
+/*!**************************************************!*\
+  !*** ./resources/js/components/Footer/Footer.js ***!
+  \**************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8608,113 +8608,88 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
-/* harmony import */ var _Grid__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Grid */ "./resources/js/components/Grid.jsx");
-/* harmony import */ var _assets_image_logo_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/image/logo.png */ "./resources/js/assets/image/logo.png");
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
+/* harmony import */ var _footer_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer.css */ "./resources/js/components/Footer/footer.css");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
 
 
 
 
-
-
-var footerAboutLinks = [{
-  display: "About Bookworm",
-  path: "/about"
-}, {
-  display: "Contact",
-  path: "/about"
-}, {
-  display: "Work With Us",
-  path: "/about"
-}, {
-  display: "News",
-  path: "/about"
-}, {
-  display: "Address",
-  path: "/about"
-}];
-var footerCustomerLinks = [{
-  display: "Return Policy",
-  path: "/about"
-}, {
-  display: "Refund Policy",
-  path: "/about"
-}];
 
 var Footer = function Footer() {
-  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("footer", {
-    className: "footer",
-    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
+    id: "bwm-footer",
+    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
       className: "container",
-      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(_Grid__WEBPACK_IMPORTED_MODULE_1__["default"], {
-        col: 4,
-        mdCol: 2,
-        smCol: 1,
-        gap: 10,
-        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
-            className: "footer__title",
-            children: "Support call center"
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
-            className: "footer__content",
-            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("p", {
-              children: ["Order contact ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("strong", {
-                children: "0906868686"
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+        className: "row",
+        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+          className: "col-md-4",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("a", {
+            href: "#",
+            className: "logo",
+            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+              className: "text-wrapper",
+              children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h4", {
+                id: "logo-text",
+                children: "Book Worm"
+              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("p", {
+                id: "logo-text",
+                children: "Book store"
               })]
-            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("p", {
-              children: ["For questions about the product ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("strong", {
-                children: "0906868686"
-              })]
-            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("p", {
-              children: ["Suggestions, Complaints ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("strong", {
-                children: "0906868686"
-              })]
+            })
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
+            className: "payment",
+            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("img", {
+              src: "https://cdn.pixabay.com/photo/2016/11/29/12/50/bookcases-1869616_960_720.jpg",
+              alt: ""
+            })
+          })]
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+          className: "col-md-3",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h5", {
+            className: "list-title",
+            children: "About Us"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("ul", {
+            className: "list",
+            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Phone: (48) 025023203"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Address: Ak47 Wasinton DC"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Fax: 089-0980-0989"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Email: bookwormstore@gmail.com"
             })]
           })]
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
-            className: "footer__title",
-            children: "Infomation"
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
-            className: "footer__content",
-            children: footerAboutLinks.map(function (item, index) {
-              return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("p", {
-                children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-                  to: item.path,
-                  children: item.display
-                })
-              }, index);
-            })
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+          className: "col-md-2",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h5", {
+            className: "list-title",
+            children: "Contact"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("ul", {
+            className: "list",
+            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Facebook"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Email"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Instagram"
+            })]
           })]
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
-            className: "footer__title",
-            children: "Customer care"
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("div", {
-            className: "footer__content",
-            children: footerCustomerLinks.map(function (item, index) {
-              return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("p", {
-                children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-                  to: item.path,
-                  children: item.display
-                })
-              }, index);
-            })
-          })]
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("div", {
-          className: "footer__about",
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("p", {
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-              to: "/",
-              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("img", {
-                src: _assets_image_logo_png__WEBPACK_IMPORTED_MODULE_2__["default"],
-                className: "footer__logo",
-                alt: ""
-              })
-            })
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("p", {
-            children: "We\u2019re your essential resource for discovering new stories, ideas, and experiences to feed the mind and nourish the soul"
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+          className: "col-md-3",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h5", {
+            className: "list-title",
+            children: "Links"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("ul", {
+            className: "list links",
+            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Home"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "Shop"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("li", {
+              children: "About"
+            })]
           })]
         })]
       })
@@ -8769,10 +8744,10 @@ Grid.propTypes = {
 
 /***/ }),
 
-/***/ "./resources/js/components/Header.jsx":
-/*!********************************************!*\
-  !*** ./resources/js/components/Header.jsx ***!
-  \********************************************/
+/***/ "./resources/js/components/Header/Header.js":
+/*!**************************************************!*\
+  !*** ./resources/js/components/Header/Header.js ***!
+  \**************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8781,124 +8756,80 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router/esm/react-router.js");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
-/* harmony import */ var _assets_image_logo_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/image/logo.png */ "./resources/js/assets/image/logo.png");
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
 
 
 
 
-
-var mainNav = [{
-  display: "Home",
-  path: "/"
-}, {
-  display: "Shop",
-  path: "/catalog"
-}, {
-  display: "Cart",
-  path: "/cart"
-}, {
-  display: "About",
-  path: "/about"
-}];
-
-var Header = function Header() {
-  var _useLocation = (0,react_router_dom__WEBPACK_IMPORTED_MODULE_3__.useLocation)(),
-      pathname = _useLocation.pathname;
-
-  var activeNav = mainNav.findIndex(function (e) {
-    return e.path === pathname;
-  });
-  var headerRef = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)(null);
-  (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(function () {
-    window.addEventListener("scroll", function () {
-      if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-        headerRef.current.classList.add('shrink');
-      } else {
-        headerRef.current.classList.remove('shrink');
-      }
-    });
-    return function () {
-      window.removeEventListener("scroll");
-    };
-  }, []);
-  var menuLeft = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)(null);
-
-  var menuToggle = function menuToggle() {
-    return menuLeft.current.classList.toggle('active');
-  };
-
-  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-    className: "header",
-    ref: headerRef,
-    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
-      className: "container",
-      children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-        className: "header__logo",
-        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-          to: "/",
-          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("img", {
-            src: _assets_image_logo_png__WEBPACK_IMPORTED_MODULE_1__["default"],
-            alt: ""
+function Header() {
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
+    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("nav", {
+      "class": "navbar navbar-expand-lg navbar-light bg-light",
+      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
+        "class": "container-fluid",
+        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+          "class": "navbar-brand",
+          href: "http://127.0.0.1:8000/",
+          children: "BOOKWORM"
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("button", {
+          "class": "navbar-toggler",
+          type: "button",
+          "data-bs-toggle": "collapse",
+          "data-bs-target": "#navbarSupportedContent",
+          "aria-controls": "navbarSupportedContent",
+          "aria-expanded": "false",
+          "aria-label": "Toggle navigation",
+          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
+            "class": "navbar-toggler-icon"
           })
-        })
-      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
-        className: "header__menu",
-        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-          className: "header__menu__mobile-toggle",
-          onClick: menuToggle,
-          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("i", {
-            className: "bx bx-menu-alt-left"
-          })
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
-          className: "header__menu__left",
-          ref: menuLeft,
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-            className: "header__menu__left__close",
-            onClick: menuToggle,
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("i", {
-              className: "bx bx-chevron-left"
-            })
-          }), mainNav.map(function (item, index) {
-            return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-              className: "header__menu__item header__menu__left__item ".concat(index === activeNav ? 'active' : ''),
-              onClick: menuToggle,
-              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-                to: item.path,
-                children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
-                  children: item.display
-                })
+        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
+          "class": "collapse navbar-collapse",
+          id: "navbarSupportedContent",
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("ul", {
+            "class": "navbar-nav me-auto mb-2 mb-lg-0",
+            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("li", {
+              "class": "nav-item",
+              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+                "class": "nav-link active",
+                "aria-current": "page",
+                href: "http://127.0.0.1:8000/",
+                children: "Home"
               })
-            }, index);
-          })]
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
-          className: "header__menu__right",
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-            className: "header__menu__item header__menu__right__item",
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("i", {
-              className: "bx bx-search"
-            })
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-            className: "header__menu__item header__menu__right__item",
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
-              to: "/cart",
-              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("i", {
-                className: "bx bx-shopping-bag"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("li", {
+              "class": "nav-item",
+              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+                "class": "nav-link",
+                href: "http://127.0.0.1:8000/catalog",
+                children: "Shop"
               })
-            })
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-            className: "header__menu__item header__menu__right__item",
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("i", {
-              className: "bx bx-user"
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("li", {
+              "class": "nav-item",
+              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+                "class": "nav-link",
+                href: "http://127.0.0.1:8000/about",
+                children: "About"
+              })
+            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("li", {
+              "class": "nav-item",
+              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
+                "class": "nav-link",
+                href: "http://127.0.0.1:8000/cart",
+                children: "Cart"
+              })
+            })]
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("form", {
+            "class": "d-flex",
+            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("button", {
+              "class": "btn btn-outline-success",
+              type: "submit",
+              children: "Login"
             })
           })]
         })]
-      })]
+      })
     })
   });
-};
+}
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);
 
@@ -9064,20 +8995,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router/esm/react-router.js");
-/* harmony import */ var _Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header */ "./resources/js/components/Header.jsx");
-/* harmony import */ var _Footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Footer */ "./resources/js/components/Footer.jsx");
-/* harmony import */ var _ProductViewModal__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ProductViewModal */ "./resources/js/components/ProductViewModal.jsx");
-/* harmony import */ var _routes_Routes__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../routes/Routes */ "./resources/js/routes/Routes.jsx");
-/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.esm.js");
-/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ "./node_modules/bootstrap/dist/css/bootstrap.min.css");
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
-function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { _defineProperty(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router/esm/react-router.js");
+/* harmony import */ var _components_Header_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header/Header */ "./resources/js/components/Header/Header.js");
+/* harmony import */ var _components_Footer_Footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Footer/Footer */ "./resources/js/components/Footer/Footer.js");
+/* harmony import */ var _Carousel_Carousel__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Carousel/Carousel */ "./resources/js/components/Carousel/Carousel.js");
+/* harmony import */ var _ProductViewModal__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./ProductViewModal */ "./resources/js/components/ProductViewModal.jsx");
+/* harmony import */ var _routes_Routes__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../routes/Routes */ "./resources/js/routes/Routes.jsx");
+/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.esm.js");
+/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ "./node_modules/bootstrap/dist/css/bootstrap.min.css");
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");
 
 
 
@@ -9091,17 +9018,17 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 
 var Layout = function Layout() {
-  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_8__.BrowserRouter, {
-    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_9__.Route, {
+  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_9__.BrowserRouter, {
+    children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_10__.Route, {
       render: function render(props) {
-        return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("div", {
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(_Header__WEBPACK_IMPORTED_MODULE_1__["default"], _objectSpread({}, props)), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("div", {
+        return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxs)("div", {
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_components_Header_Header__WEBPACK_IMPORTED_MODULE_1__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)("div", {
             className: "container",
-            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)("div", {
+            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)("div", {
               className: "main",
-              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(_routes_Routes__WEBPACK_IMPORTED_MODULE_4__["default"], {})
+              children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_routes_Routes__WEBPACK_IMPORTED_MODULE_5__["default"], {})
             })
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(_Footer__WEBPACK_IMPORTED_MODULE_2__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(_ProductViewModal__WEBPACK_IMPORTED_MODULE_3__["default"], {})]
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_components_Footer_Footer__WEBPACK_IMPORTED_MODULE_2__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_ProductViewModal__WEBPACK_IMPORTED_MODULE_4__["default"], {})]
         });
       }
     })
@@ -9144,6 +9071,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ProductCard = function ProductCard(props) {
   var dispatch = (0,react_redux__WEBPACK_IMPORTED_MODULE_2__.useDispatch)();
+  console.log(props);
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)("div", {
     className: "product-card",
     children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)(react_router_dom__WEBPACK_IMPORTED_MODULE_7__.Link, {
@@ -15799,6 +15727,30 @@ ___CSS_LOADER_EXPORT___.push([module.id, ".products-list {\n  width: 90%;\n  mar
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./resources/js/components/Footer/footer.css":
+/*!*************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./resources/js/components/Footer/footer.css ***!
+  \*************************************************************************************************************************************************************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "#bwm-footer {\n    background: red;\n    color: white;\n    padding-bottom: 40px;\n}\n#bwm-footer .container .row .col-md-4 {\n    padding-top: 40px;\n}\n#bwm-footer .container .row .col-md-4 .logo {\n    display: flex;\n    text-decoration: none;\n    color: white;\n}\n#bwm-footer .container .row .col-md-4 .logo .img-wrapper {\n    width: 100px;\n    height: 100px;\n}\n#bwm-footer .container .row .col-md-4 .logo .img-wrapper img {\n    width: 100%;\n    height: 100%;\n}\n#bwm-footer .container .row .col-md-4 .logo .text-wrapper {\n    display: flex;\n    flex-direction: column;\n}\n#bwm-footer .container .row .col-md-4 .logo .text-wrapper .logo-text {\n    text-align: center;\n    color: white;\n}\n#bwm-footer .container .row .col-md-4 .payment {\n    width: 100%;\n    height: 80px;\n}\n#bwm-footer .container .row .col-md-4 .payment img {\n    width: 100%;\n    height: 100%;\n    -o-object-fit: contain;\n       object-fit: contain;\n}\n#bwm-footer .container .row .col-md-3, #bwm-footer .container .row .col-md-2 {\n    padding-top: 40px;\n}\n#bwm-footer .container .row .col-md-3 .list-title, #bwm-footer .container .row .col-md-2 .list-title {\n    font-weight: 700;\n}\n#bwm-footer .container .row .col-md-3 .list, #bwm-footer .container .row .col-md-2 .list {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n}\n#bwm-footer .container .row .col-md-3 .list li, #bwm-footer .container .row .col-md-2 .list li {\n    line-height: 35px;\n}\n", ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./resources/js/pages/Home/home.css":
 /*!****************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./resources/js/pages/Home/home.css ***!
@@ -15842,7 +15794,7 @@ var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBP
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);"]);
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n      -ms-user-select: none;\n          user-select: none;\n}\n\nhtml {\n  font-size: 13px;\n}\n@media only screen and (max-width: 600px) {\n  html {\n    font-size: 11px;\n  }\n}\n\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n\nul {\n  list-style-type: none;\n}\n\na {\n  text-decoration: none;\n  color: unset;\n}\n\na:hover {\n  color: #4267b2;\n}\n\nimg {\n  max-width: 100%;\n}\n\n.color-blue {\n  color: #4267b2;\n}\n\n.bg-blue {\n  background-color: #4267b2;\n}\n\n.color-orange {\n  color: #fbb96b;\n}\n\n.bg-orange {\n  background-color: #fbb96b;\n}\n\n.color-pink {\n  color: #fe7e73;\n}\n\n.bg-pink {\n  background-color: #fe7e73;\n}\n\n.color-white {\n  color: #fff;\n}\n\n.bg-white {\n  background-color: #fff;\n}\n\n.color-black {\n  color: #000;\n}\n\n.bg-black {\n  background-color: #000;\n}\n\n.color-main {\n  color: #4267b2;\n}\n\n.bg-main {\n  background-color: #4267b2;\n}\n\n.color-red {\n  color: #ff0000;\n}\n\n.bg-red {\n  background-color: #ff0000;\n}\n\n.grid-col-0 {\n  grid-template-columns: repeat(0, 1fr);\n}\n\n.grid-col-1 {\n  grid-template-columns: repeat(1, 1fr);\n}\n\n.grid-col-2 {\n  grid-template-columns: repeat(2, 1fr);\n}\n\n.grid-col-3 {\n  grid-template-columns: repeat(3, 1fr);\n}\n\n.grid-col-4 {\n  grid-template-columns: repeat(4, 1fr);\n}\n\n.grid-col-5 {\n  grid-template-columns: repeat(5, 1fr);\n}\n\n.grid-col-6 {\n  grid-template-columns: repeat(6, 1fr);\n}\n\n.grid-col-7 {\n  grid-template-columns: repeat(7, 1fr);\n}\n\n.grid-col-8 {\n  grid-template-columns: repeat(8, 1fr);\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-0 {\n    grid-template-columns: repeat(0, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-1 {\n    grid-template-columns: repeat(1, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-2 {\n    grid-template-columns: repeat(2, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-3 {\n    grid-template-columns: repeat(3, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-4 {\n    grid-template-columns: repeat(4, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-5 {\n    grid-template-columns: repeat(5, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-6 {\n    grid-template-columns: repeat(6, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-7 {\n    grid-template-columns: repeat(7, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-8 {\n    grid-template-columns: repeat(8, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-0 {\n    grid-template-columns: repeat(0, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-1 {\n    grid-template-columns: repeat(1, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-2 {\n    grid-template-columns: repeat(2, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-3 {\n    grid-template-columns: repeat(3, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-4 {\n    grid-template-columns: repeat(4, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-5 {\n    grid-template-columns: repeat(5, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-6 {\n    grid-template-columns: repeat(6, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-7 {\n    grid-template-columns: repeat(7, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-8 {\n    grid-template-columns: repeat(8, 1fr);\n  }\n}\n\n.container {\n  width: 100%;\n  max-width: 1620px;\n  padding: 0 50px;\n  margin: auto;\n}\n@media only screen and (max-width: 1024px) {\n  .container {\n    padding: 0 20px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .container {\n    padding: 0 10px;\n  }\n}\n\n.main {\n  margin-top: 170px;\n  margin-bottom: 2rem;\n  min-height: 100vh;\n}\n@media only screen and (max-width: 1024px) {\n  .main {\n    margin-top: calc(70px + 20px);\n  }\n}\n@media only screen and (max-width: 600px) {\n  .main {\n    margin-top: calc(40px + 10px);\n  }\n}\n\n.grid {\n  display: grid;\n}\n\n.header {\n  background-color: #fff;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  z-index: 99;\n  height: 170px;\n  transition: height 0.3s ease;\n}\n@media only screen and (max-width: 1024px) {\n  .header {\n    height: 70px;\n    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header {\n    height: 40px;\n  }\n}\n.header .container {\n  height: 100%;\n}\n.header.shrink {\n  height: 70px;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  z-index: 100;\n}\n@media only screen and (max-width: 600px) {\n  .header.shrink {\n    height: 40px;\n  }\n}\n.header__logo {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  position: absolute;\n  inset: 0;\n  pointer-events: none;\n}\n.header__logo img {\n  height: 88px;\n}\n.header__menu {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 100%;\n  font-size: 1.5rem;\n}\n.header__menu__item ~ .header__menu__item {\n  margin-left: 39px;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__item ~ .header__menu__item {\n    margin-left: 20px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header__menu__item ~ .header__menu__item {\n    margin-left: 10px;\n  }\n}\n.header__menu__item.active {\n  font-weight: 600;\n  color: #4267b2;\n}\n.header__menu__item:hover {\n  color: #4267b2;\n}\n.header__menu__left, .header__menu__right {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  height: 100%;\n}\n.header__menu__right {\n  font-size: 2.25rem;\n}\n.header__menu__right__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__right__item {\n    margin-left: 10px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header__menu__right {\n    font-size: 1.5rem;\n  }\n}\n.header__menu__left__close {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__left {\n    flex-direction: column;\n    background-color: #fff;\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100vh;\n    justify-content: flex-start;\n    padding-top: 30px;\n    transform: translateX(-100%);\n    transition: transform 0.5s ease;\n  }\n  .header__menu__left.active {\n    transform: translateX(0);\n  }\n  .header__menu__left__item ~ .header__menu__left__item {\n    margin-left: unset;\n    margin-top: 20px;\n  }\n  .header__menu__left__close {\n    display: block;\n    position: absolute;\n    left: 20px;\n    font-size: 2.5rem;\n  }\n}\n.header__menu__mobile-toggle {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__mobile-toggle {\n    display: block;\n    font-size: 2.5rem;\n  }\n}\n\n.footer {\n  padding: 70px 0;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  font-size: 1.1rem;\n}\n.footer__logo {\n  height: 38px;\n}\n.footer__about p {\n  margin-bottom: 2rem;\n}\n.footer__title {\n  text-transform: uppercase;\n  margin-bottom: 2rem;\n  font-weight: 600;\n}\n.footer__content p {\n  margin-bottom: 1.25rem;\n}\n\n.hero-slider {\n  height: 100vh;\n  max-height: 1080px;\n  overflow: hidden;\n  position: relative;\n  margin-bottom: 50px;\n  margin-top: calc(170px * -1);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider {\n    margin-top: calc(70px * -1);\n  }\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider {\n    margin-top: calc(40px * -1);\n  }\n}\n.hero-slider__item {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  opacity: 0;\n  visibility: hidden;\n  pointer-events: none;\n  position: absolute;\n  inset: 0;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item {\n    flex-direction: column-reverse;\n    padding-top: 70px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item {\n    padding-top: unset;\n    padding-bottom: 40px;\n  }\n}\n.hero-slider__item.active {\n  opacity: 1;\n  visibility: visible;\n  pointer-events: visible;\n}\n.hero-slider__item__info {\n  width: 58.33%;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__info {\n    width: 100%;\n    flex-grow: 1;\n  }\n}\n.hero-slider__item__info__title, .hero-slider__item__info__description {\n  margin-bottom: 60px;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__info__title, .hero-slider__item__info__description {\n    margin-bottom: 15px;\n  }\n}\n.hero-slider__item__info__title {\n  font-family: \"M PLUS Rounded 1c\", sans-serif;\n  font-weight: 600;\n  font-size: 4.5rem;\n  line-height: 6.75rem;\n  overflow: hidden;\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item__info__title {\n    font-size: 2.5rem;\n    line-height: 3.75rem;\n  }\n}\n.hero-slider__item__info__description {\n  color: #8d8d8d;\n  font-size: 1.5rem;\n  line-height: 2.25rem;\n  overflow: hidden;\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item__info__description {\n    font-size: 1rem;\n    line-height: 1.5rem;\n  }\n}\n.hero-slider__item__info__btn {\n  overflow: hidden;\n}\n.hero-slider__item__info__title > span, .hero-slider__item__info__description > span, .hero-slider__item__info__btn button {\n  display: block;\n  transform: translateY(-100%);\n  transition: transform 0.5s ease;\n}\n.hero-slider__item.active .hero-slider__item__info__title > span, .hero-slider__item.active .hero-slider__item__info__description > span, .hero-slider__item.active .hero-slider__item__info__btn button {\n  transform: translateY(0);\n}\n.hero-slider__item__image {\n  flex-grow: 1;\n  position: relative;\n  height: 100%;\n  z-index: 99;\n  pointer-events: none;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image {\n    width: 100%;\n    height: 60%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-grow: unset;\n    z-index: 98;\n  }\n}\n.hero-slider__item__image img {\n  height: 75vh;\n  position: absolute;\n  bottom: 0;\n  right: 0;\n  transform: scale(0) rotate(65deg);\n  transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image img {\n    height: 100%;\n    position: relative;\n  }\n}\n.hero-slider__item__image .shape {\n  height: 472px;\n  width: 472px;\n  position: absolute;\n  right: 0;\n  top: 50%;\n  border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  transform: translate(0, -50%);\n  transition: border-radius 13s ease;\n  -webkit-animation: border 10s infinite;\n          animation: border 10s infinite;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image .shape {\n    height: 250px;\n    width: 250px;\n    right: 50%;\n    transform: translate(50%, -50%);\n  }\n}\n.hero-slider__item.active .hero-slider__item__image > img {\n  transform: scale(1) rotate(0);\n}\n.hero-slider__control {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  position: absolute;\n  bottom: 50px;\n  left: 50%;\n  transform: translateX(-50%);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__control {\n    bottom: 20px;\n  }\n}\n.hero-slider__control__item ~ .hero-slider__control__item {\n  margin-left: 10px;\n}\n.hero-slider__control__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 2rem;\n  cursor: pointer;\n}\n.hero-slider__control__item:hover {\n  color: #4267b2;\n}\n.hero-slider__control__item .index {\n  font-size: 1.5rem;\n}\n\n@-webkit-keyframes border {\n  0% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n  50% {\n    border-radius: 31% 69% 59% 41%/28% 24% 76% 72%;\n  }\n  100% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n}\n\n@keyframes border {\n  0% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n  50% {\n    border-radius: 31% 69% 59% 41%/28% 24% 76% 72%;\n  }\n  100% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n}\n.btn {\n  border: 0;\n  outline: 0;\n  color: #fff;\n  font-size: 1.5rem;\n  font-weight: 600;\n  text-transform: uppercase;\n  cursor: pointer;\n  overflow: hidden;\n  position: relative;\n}\n@media only screen and (max-width: 600px) {\n  .btn {\n    font-size: 1rem;\n  }\n}\n.btn__txt, .btn__icon {\n  display: block;\n  transition: transform 0.5s ease;\n}\n.btn__txt {\n  padding: 1rem 2rem;\n}\n.btn__icon {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 2rem;\n  position: absolute;\n  left: 0;\n  top: 0;\n  height: 100%;\n  width: 100%;\n  transform: translateX(-100%);\n}\n.btn-animate:hover .btn__txt {\n  transform: translateX(100%);\n}\n.btn-animate:hover .btn__icon {\n  transform: translateX(0);\n}\n.btn-sm {\n  font-size: 1rem;\n}\n.btn-sm .btn__txt {\n  padding: 0.7rem 1.5rem;\n}\n.btn-block {\n  width: 100%;\n}\n\n.section {\n  margin-bottom: 80px;\n}\n.section > * ~ * {\n  margin-top: 70px;\n}\n.section__title {\n  font-size: 2rem;\n  text-transform: capitalize;\n  text-align: center;\n}\n\n.policy-card {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  padding: 20px;\n  padding-left: 0;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  transition: transform 0.5s ease;\n}\n.policy-card:hover {\n  transform: translateY(-20px);\n}\n.policy-card__icon {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 40%;\n  color: #4267b2;\n}\n.policy-card__icon i {\n  font-size: 3rem;\n}\n.policy-card__info__name {\n  font-size: 1.25rem;\n  font-weight: 600;\n  margin-bottom: 10px;\n}\n.policy-card__info__description {\n  font-size: 1rem;\n  color: #8d8d8d;\n}\n\n.product-card {\n  text-align: center;\n  margin-bottom: 30px;\n}\n.product-card__image {\n  padding-top: 100%;\n  position: relative;\n  overflow: hidden;\n  margin-bottom: 30px;\n}\n.product-card__image img {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  height: 100%;\n}\n.product-card__image img:nth-child(1) {\n  transform: translateX(-50%) scale(1);\n  transition: transform 0.5s ease;\n}\n.product-card__image img:nth-child(2) {\n  transform: translateX(-50%) scale(0);\n}\n.product-card__image:hover img:nth-child(1) {\n  transform: translateX(-50%) scale(0);\n}\n.product-card__image:hover img:nth-child(2) {\n  transform: translateX(-50%) scale(1);\n  transition: transform 0.5s ease;\n}\n.product-card__name {\n  margin-bottom: 10px;\n  color: #8d8d8d;\n  font-size: 1.25rem;\n  font-weight: normal;\n}\n.product-card__price {\n  color: #000;\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin-bottom: 10px;\n}\n.product-card__price__old {\n  color: #8d8d8d;\n  margin-left: 20px;\n  font-weight: 300;\n}\n@media only screen and (max-width: 1024px) {\n  .product-card__btn {\n    display: none;\n  }\n}\n\n.catalog {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog {\n    flex-direction: column;\n  }\n}\n.catalog__filter {\n  width: 20%;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n    height: 100vh;\n    background-color: #fff;\n    padding: 1rem;\n    position: fixed;\n    left: 0;\n    top: 70px;\n    z-index: 100;\n    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n    transform: translateX(-100%);\n    transition: transform 0.3s ease;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .catalog__filter {\n    top: 40px;\n  }\n}\n.catalog__filter.active {\n  transform: translateX(0);\n}\n.catalog__filter__widget {\n  margin-bottom: 2rem;\n}\n.catalog__filter__widget__title {\n  font-size: 1.25rem;\n  font-weight: 600;\n  text-transform: capitalize;\n  margin-bottom: 16px;\n}\n.catalog__filter__widget__content {\n  color: #8d8d8d;\n}\n.catalog__filter__widget__content__item {\n  margin-bottom: 13px;\n}\n.catalog__filter__close {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter__close {\n    display: block;\n    font-size: 2rem;\n    margin-bottom: 1rem;\n  }\n}\n.catalog__content {\n  flex-grow: 1;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__content {\n    width: 100%;\n  }\n}\n.catalog__filter__toggle {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter__toggle {\n    display: block;\n    margin-bottom: 2rem;\n  }\n}\n\n.custom-checkbox {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  cursor: pointer;\n}\n.custom-checkbox:hover {\n  color: #4267b2;\n}\n.custom-checkbox input {\n  position: absolute;\n  opacity: 0;\n  cursor: pointer;\n  height: 0;\n  width: 0;\n}\n.custom-checkbox__checkmark {\n  margin-right: 10px;\n  height: 15px;\n  width: 15px;\n  border: 1px solid #8d8d8d;\n}\n.custom-checkbox__checkmark i {\n  transform: scale(0);\n  transition: transform 0.3s ease;\n}\ninput:checked ~ .custom-checkbox__checkmark {\n  background-color: #4267b2;\n  border: 1px solid #4267b2;\n  color: #fff;\n}\ninput:checked ~ .custom-checkbox__checkmark > i {\n  transform: scale(1);\n}\n\n.product {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 600px) {\n  .product {\n    flex-direction: column;\n  }\n}\n.product__images {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n  width: 60%;\n  flex-wrap: wrap;\n}\n@media only screen and (max-width: 1024px) {\n  .product__images {\n    width: 80%;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .product__images {\n    width: 100%;\n  }\n}\n.product__images__list {\n  width: 20%;\n}\n.product__images__list__item {\n  cursor: pointer;\n}\n.product__images__main {\n  flex-grow: 1;\n  padding-top: 100%;\n  position: relative;\n}\n.product__images__main img {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  height: 100%;\n  transform: translateX(-50%);\n}\n.product__info {\n  flex-grow: 1;\n  position: -webkit-sticky;\n  position: sticky;\n  top: 70px;\n  padding-top: 2rem;\n}\n@media only screen and (max-width: 600px) {\n  .product__info {\n    position: relative;\n    top: unset;\n  }\n}\n.product__info__title {\n  font-size: 2.5rem;\n  font-weight: normal;\n}\n.product__info__item {\n  margin-top: 2rem;\n}\n.product__info__item__price {\n  color: #4267b2;\n  font-size: 2rem;\n  font-weight: 600;\n}\n.product__info__item__title {\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin-bottom: 1rem;\n}\n.product__info__item__list {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n}\n.product__info__item__list__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 50px;\n  height: 50px;\n  border-radius: 50%;\n  border: 2px solid #8d8d8d;\n  cursor: pointer;\n  margin-right: 1rem;\n}\n@media only screen and (max-width: 600px) {\n  .product__info__item__list__item {\n    width: 40px;\n    height: 40px;\n  }\n}\n.product__info__item__list__item.active {\n  border-color: #4267b2;\n}\n.product__info__item__list__item:hover {\n  border-color: #4267b2;\n}\n.product__info__item__list__item .circle {\n  width: 40px;\n  height: 40px;\n  border-radius: 50%;\n}\n@media only screen and (max-width: 600px) {\n  .product__info__item__list__item .circle {\n    width: 30px;\n    height: 30px;\n  }\n}\n.product__info__item__list__item__size {\n  font-size: 1.5rem;\n  text-transform: uppercase;\n}\n.product__info__item__quantity {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n.product__info__item__quantity__btn {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 30px;\n  height: 30px;\n  border: 2px solid #8d8d8d;\n  font-size: 1.5rem;\n  cursor: pointer;\n}\n.product__info__item__quantity__input {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  height: 30px;\n  width: 90px;\n  font-size: 1.5rem;\n  border-top: 2px solid #8d8d8d;\n  border-bottom: 2px solid #8d8d8d;\n}\n.product__info__item button {\n  margin-right: 1rem;\n  margin-bottom: 1rem;\n}\n\n.product-description {\n  width: 100%;\n  padding: 2rem 2rem 3rem;\n  height: 400px;\n  overflow: hidden;\n  position: relative;\n}\n@media only screen and (max-width: 600px) {\n  .product-description {\n    display: none;\n  }\n}\n.product-description.mobile {\n  display: none;\n}\n@media only screen and (max-width: 600px) {\n  .product-description.mobile {\n    display: block;\n  }\n}\n.product-description.expand {\n  height: -webkit-max-content;\n  height: -moz-max-content;\n  height: max-content;\n}\n.product-description__title {\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin: 2rem 0;\n}\n.product-description__content {\n  font-size: 1.25rem;\n  line-height: 1.875rem;\n  text-align: justify;\n}\n.product-description__toggle {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n}\n\n.product-view__modal {\n  position: fixed;\n  z-index: 101;\n  padding-top: 100px;\n  left: 0;\n  top: 0;\n  width: 100%;\n  height: 100%;\n  overflow: auto;\n  background-color: black;\n  background-color: rgba(0, 0, 0, 0.4);\n  opacity: 0;\n  visibility: hidden;\n}\n.product-view__modal.active {\n  opacity: 1;\n  visibility: visible;\n}\n.product-view__modal__content {\n  margin: auto;\n  padding: 2rem;\n  background-color: #fff;\n  width: 50%;\n  opacity: 0;\n  transform: translateY(-250px);\n  transition: transform 0.6s ease;\n  position: relative;\n}\n.product-view__modal__content__close {\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n.product-view__modal.active .product-view__modal__content {\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.cart {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 600px) {\n  .cart {\n    flex-wrap: wrap;\n  }\n}\n.cart__list {\n  width: 60%;\n}\n@media only screen and (max-width: 600px) {\n  .cart__list {\n    width: 100%;\n  }\n}\n.cart__info {\n  padding: 20px;\n  margin-right: 30px;\n  margin-top: 30px;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  position: -webkit-sticky;\n  position: sticky;\n  top: calc(70px + 20px);\n}\n@media only screen and (max-width: 600px) {\n  .cart__info {\n    width: 100%;\n    margin-right: 0;\n    margin-bottom: 30px;\n    position: unset;\n  }\n}\n.cart__info__txt > * {\n  margin-bottom: 10px;\n}\n.cart__info__txt p {\n  font-size: 1.25rem;\n}\n.cart__info__txt__price {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding: 10px 0;\n  font-size: 1.25rem;\n}\n.cart__info__txt__price span:nth-child(2) {\n  font-size: 2rem;\n  color: #4267b2;\n  font-weight: 600;\n}\n.cart__info__btn > * {\n  margin-bottom: 20px;\n}\n.cart__item {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  margin-bottom: 20px;\n}\n.cart__item__image {\n  margin-right: 20px;\n}\n.cart__item__image img {\n  height: 150px;\n}\n.cart__item__info {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  flex-grow: 1;\n}\n@media only screen and (max-width: 600px) {\n  .cart__item__info {\n    display: flex;\n    align-items: flex-start;\n    justify-content: center;\n    flex-direction: column;\n  }\n  .cart__item__info > * {\n    margin-bottom: 10px;\n  }\n}\n.cart__item__info__name {\n  width: 40%;\n}\n@media only screen and (max-width: 600px) {\n  .cart__item__info__name {\n    width: 100%;\n  }\n}\n.cart__item__info__name, .cart__item__info__price {\n  font-size: 1.25rem;\n}\n.cart__item__del {\n  font-size: 1.5rem;\n}\n.cart__item__del i {\n  cursor: pointer;\n}\n.cart__item__del i:hover {\n  color: #4267b2;\n}\n\n.wrraperabout {\n  display: flex;\n}\n\n.mainabout {\n  width: 74%;\n  padding-top: 100px;\n  margin: auto;\n  display: grid;\n  grid-template-columns: 500px 500px 100px;\n  grid-template-rows: 250px 100px 100px;\n}\n\n.headabout {\n  font-size: 25px;\n  grid-column-start: 1;\n  grid-column-end: 4;\n}\n\n.contentabout {\n  padding-left: 80px;\n  margin: 30px;\n  font-size: 20px;\n}\n\nh1 {\n  text-align: center;\n}", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n      -ms-user-select: none;\n          user-select: none;\n}\n\nhtml {\n  font-size: 13px;\n}\n@media only screen and (max-width: 600px) {\n  html {\n    font-size: 11px;\n  }\n}\n\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n\nul {\n  list-style-type: none;\n}\n\na {\n  text-decoration: none;\n  color: unset;\n}\n\na:hover {\n  color: #4267b2;\n}\n\nimg {\n  max-width: 100%;\n}\n\n.color-blue {\n  color: #4267b2;\n}\n\n.bg-blue {\n  background-color: #4267b2;\n}\n\n.color-orange {\n  color: #fbb96b;\n}\n\n.bg-orange {\n  background-color: #fbb96b;\n}\n\n.color-pink {\n  color: #fe7e73;\n}\n\n.bg-pink {\n  background-color: #fe7e73;\n}\n\n.color-white {\n  color: #fff;\n}\n\n.bg-white {\n  background-color: #fff;\n}\n\n.color-black {\n  color: #000;\n}\n\n.bg-black {\n  background-color: #000;\n}\n\n.color-main {\n  color: #4267b2;\n}\n\n.bg-main {\n  background-color: #4267b2;\n}\n\n.color-red {\n  color: #ff0000;\n}\n\n.bg-red {\n  background-color: #ff0000;\n}\n\n.grid-col-0 {\n  grid-template-columns: repeat(0, 1fr);\n}\n\n.grid-col-1 {\n  grid-template-columns: repeat(1, 1fr);\n}\n\n.grid-col-2 {\n  grid-template-columns: repeat(2, 1fr);\n}\n\n.grid-col-3 {\n  grid-template-columns: repeat(3, 1fr);\n}\n\n.grid-col-4 {\n  grid-template-columns: repeat(4, 1fr);\n}\n\n.grid-col-5 {\n  grid-template-columns: repeat(5, 1fr);\n}\n\n.grid-col-6 {\n  grid-template-columns: repeat(6, 1fr);\n}\n\n.grid-col-7 {\n  grid-template-columns: repeat(7, 1fr);\n}\n\n.grid-col-8 {\n  grid-template-columns: repeat(8, 1fr);\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-0 {\n    grid-template-columns: repeat(0, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-1 {\n    grid-template-columns: repeat(1, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-2 {\n    grid-template-columns: repeat(2, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-3 {\n    grid-template-columns: repeat(3, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-4 {\n    grid-template-columns: repeat(4, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-5 {\n    grid-template-columns: repeat(5, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-6 {\n    grid-template-columns: repeat(6, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-7 {\n    grid-template-columns: repeat(7, 1fr);\n  }\n}\n\n@media only screen and (max-width: 1024px) {\n  .grid-col-md-8 {\n    grid-template-columns: repeat(8, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-0 {\n    grid-template-columns: repeat(0, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-1 {\n    grid-template-columns: repeat(1, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-2 {\n    grid-template-columns: repeat(2, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-3 {\n    grid-template-columns: repeat(3, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-4 {\n    grid-template-columns: repeat(4, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-5 {\n    grid-template-columns: repeat(5, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-6 {\n    grid-template-columns: repeat(6, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-7 {\n    grid-template-columns: repeat(7, 1fr);\n  }\n}\n\n@media only screen and (max-width: 600px) {\n  .grid-col-sm-8 {\n    grid-template-columns: repeat(8, 1fr);\n  }\n}\n\n.container {\n  width: 100%;\n  max-width: 1620px;\n  padding: 0 50px;\n  margin: auto;\n}\n@media only screen and (max-width: 1024px) {\n  .container {\n    padding: 0 20px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .container {\n    padding: 0 10px;\n  }\n}\n\n.main {\n  margin-top: 170px;\n  margin-bottom: 2rem;\n  min-height: 100vh;\n}\n@media only screen and (max-width: 1024px) {\n  .main {\n    margin-top: calc(70px + 20px);\n  }\n}\n@media only screen and (max-width: 600px) {\n  .main {\n    margin-top: calc(40px + 10px);\n  }\n}\n\n.grid {\n  display: grid;\n}\n\n.header {\n  background-color: #fff;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  z-index: 99;\n  height: 170px;\n  transition: height 0.3s ease;\n}\n@media only screen and (max-width: 1024px) {\n  .header {\n    height: 70px;\n    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header {\n    height: 40px;\n  }\n}\n.header .container {\n  height: 100%;\n}\n.header.shrink {\n  height: 70px;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  z-index: 100;\n}\n@media only screen and (max-width: 600px) {\n  .header.shrink {\n    height: 40px;\n  }\n}\n.header__logo {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  position: absolute;\n  inset: 0;\n  pointer-events: none;\n}\n.header__logo img {\n  height: 88px;\n}\n.header__menu {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 100%;\n  font-size: 1.5rem;\n}\n.header__menu__item ~ .header__menu__item {\n  margin-left: 39px;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__item ~ .header__menu__item {\n    margin-left: 20px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header__menu__item ~ .header__menu__item {\n    margin-left: 10px;\n  }\n}\n.header__menu__item.active {\n  font-weight: 600;\n  color: #4267b2;\n}\n.header__menu__item:hover {\n  color: #4267b2;\n}\n.header__menu__left, .header__menu__right {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  height: 100%;\n}\n.header__menu__right {\n  font-size: 2.25rem;\n}\n.header__menu__right__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__right__item {\n    margin-left: 10px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .header__menu__right {\n    font-size: 1.5rem;\n  }\n}\n.header__menu__left__close {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__left {\n    flex-direction: column;\n    background-color: #fff;\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100vh;\n    justify-content: flex-start;\n    padding-top: 30px;\n    transform: translateX(-100%);\n    transition: transform 0.5s ease;\n  }\n  .header__menu__left.active {\n    transform: translateX(0);\n  }\n  .header__menu__left__item ~ .header__menu__left__item {\n    margin-left: unset;\n    margin-top: 20px;\n  }\n  .header__menu__left__close {\n    display: block;\n    position: absolute;\n    left: 20px;\n    font-size: 2.5rem;\n  }\n}\n.header__menu__mobile-toggle {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .header__menu__mobile-toggle {\n    display: block;\n    font-size: 2.5rem;\n  }\n}\n\n.footer {\n  padding: 70px 0;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  font-size: 1.1rem;\n}\n.footer__logo {\n  height: 38px;\n}\n.footer__about p {\n  margin-bottom: 2rem;\n}\n.footer__title {\n  text-transform: uppercase;\n  margin-bottom: 2rem;\n  font-weight: 600;\n}\n.footer__content p {\n  margin-bottom: 1.25rem;\n}\n\n.hero-slider {\n  height: 100vh;\n  max-height: 1080px;\n  overflow: hidden;\n  position: relative;\n  margin-bottom: 50px;\n  margin-top: calc(170px * -1);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider {\n    margin-top: calc(70px * -1);\n  }\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider {\n    margin-top: calc(40px * -1);\n  }\n}\n.hero-slider__item {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  opacity: 0;\n  visibility: hidden;\n  pointer-events: none;\n  position: absolute;\n  inset: 0;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item {\n    flex-direction: column-reverse;\n    padding-top: 70px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item {\n    padding-top: unset;\n    padding-bottom: 40px;\n  }\n}\n.hero-slider__item.active {\n  opacity: 1;\n  visibility: visible;\n  pointer-events: visible;\n}\n.hero-slider__item__info {\n  width: 58.33%;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__info {\n    width: 100%;\n    flex-grow: 1;\n  }\n}\n.hero-slider__item__info__title, .hero-slider__item__info__description {\n  margin-bottom: 60px;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__info__title, .hero-slider__item__info__description {\n    margin-bottom: 15px;\n  }\n}\n.hero-slider__item__info__title {\n  font-family: \"M PLUS Rounded 1c\", sans-serif;\n  font-weight: 600;\n  font-size: 4.5rem;\n  line-height: 6.75rem;\n  overflow: hidden;\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item__info__title {\n    font-size: 2.5rem;\n    line-height: 3.75rem;\n  }\n}\n.hero-slider__item__info__description {\n  color: #8d8d8d;\n  font-size: 1.5rem;\n  line-height: 2.25rem;\n  overflow: hidden;\n}\n@media only screen and (max-width: 600px) {\n  .hero-slider__item__info__description {\n    font-size: 1rem;\n    line-height: 1.5rem;\n  }\n}\n.hero-slider__item__info__btn {\n  overflow: hidden;\n}\n.hero-slider__item__info__title > span, .hero-slider__item__info__description > span, .hero-slider__item__info__btn button {\n  display: block;\n  transform: translateY(-100%);\n  transition: transform 0.5s ease;\n}\n.hero-slider__item.active .hero-slider__item__info__title > span, .hero-slider__item.active .hero-slider__item__info__description > span, .hero-slider__item.active .hero-slider__item__info__btn button {\n  transform: translateY(0);\n}\n.hero-slider__item__image {\n  flex-grow: 1;\n  position: relative;\n  height: 100%;\n  z-index: 99;\n  pointer-events: none;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image {\n    width: 100%;\n    height: 60%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-grow: unset;\n    z-index: 98;\n  }\n}\n.hero-slider__item__image img {\n  height: 75vh;\n  position: absolute;\n  bottom: 0;\n  right: 0;\n  transform: scale(0) rotate(65deg);\n  transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image img {\n    height: 100%;\n    position: relative;\n  }\n}\n.hero-slider__item__image .shape {\n  height: 472px;\n  width: 472px;\n  position: absolute;\n  right: 0;\n  top: 50%;\n  border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  transform: translate(0, -50%);\n  transition: border-radius 13s ease;\n  -webkit-animation: border 10s infinite;\n          animation: border 10s infinite;\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__item__image .shape {\n    height: 250px;\n    width: 250px;\n    right: 50%;\n    transform: translate(50%, -50%);\n  }\n}\n.hero-slider__item.active .hero-slider__item__image > img {\n  transform: scale(1) rotate(0);\n}\n.hero-slider__control {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  position: absolute;\n  bottom: 50px;\n  left: 50%;\n  transform: translateX(-50%);\n}\n@media only screen and (max-width: 1024px) {\n  .hero-slider__control {\n    bottom: 20px;\n  }\n}\n.hero-slider__control__item ~ .hero-slider__control__item {\n  margin-left: 10px;\n}\n.hero-slider__control__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 2rem;\n  cursor: pointer;\n}\n.hero-slider__control__item:hover {\n  color: #4267b2;\n}\n.hero-slider__control__item .index {\n  font-size: 1.5rem;\n}\n\n@-webkit-keyframes border {\n  0% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n  50% {\n    border-radius: 31% 69% 59% 41%/28% 24% 76% 72%;\n  }\n  100% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n}\n\n@keyframes border {\n  0% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n  50% {\n    border-radius: 31% 69% 59% 41%/28% 24% 76% 72%;\n  }\n  100% {\n    border-radius: 58% 42% 38% 62%/42% 55% 45% 58%;\n  }\n}\n.btn {\n  border: 0;\n  outline: 0;\n  color: #fff;\n  font-size: 1.5rem;\n  font-weight: 600;\n  text-transform: uppercase;\n  cursor: pointer;\n  overflow: hidden;\n  position: relative;\n}\n@media only screen and (max-width: 600px) {\n  .btn {\n    font-size: 1rem;\n  }\n}\n.btn__txt, .btn__icon {\n  display: block;\n  transition: transform 0.5s ease;\n}\n.btn__txt {\n  padding: 1rem 2rem;\n}\n.btn__icon {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 2rem;\n  position: absolute;\n  left: 0;\n  top: 0;\n  height: 100%;\n  width: 100%;\n  transform: translateX(-100%);\n}\n.btn-animate:hover .btn__txt {\n  transform: translateX(100%);\n}\n.btn-animate:hover .btn__icon {\n  transform: translateX(0);\n}\n.btn-sm {\n  font-size: 1rem;\n}\n.btn-sm .btn__txt {\n  padding: 0.7rem 1.5rem;\n}\n.btn-block {\n  width: 100%;\n}\n\n.section {\n  margin-bottom: 80px;\n}\n.section > * ~ * {\n  margin-top: 70px;\n}\n.section__title {\n  font-size: 2rem;\n  text-transform: capitalize;\n  text-align: center;\n}\n\n.policy-card {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  padding: 20px;\n  padding-left: 0;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  transition: transform 0.5s ease;\n}\n.policy-card:hover {\n  transform: translateY(-20px);\n}\n.policy-card__icon {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 40%;\n  color: #4267b2;\n}\n.policy-card__icon i {\n  font-size: 3rem;\n}\n.policy-card__info__name {\n  font-size: 1.25rem;\n  font-weight: 600;\n  margin-bottom: 10px;\n}\n.policy-card__info__description {\n  font-size: 1rem;\n  color: #8d8d8d;\n}\n\n.product-card {\n  text-align: center;\n  margin-bottom: 30px;\n}\n.product-card__image {\n  padding-top: 100%;\n  position: relative;\n  overflow: hidden;\n  margin-bottom: 30px;\n}\n.product-card__image img {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  height: 100%;\n}\n.product-card__image img:nth-child(1) {\n  transform: translateX(-50%) scale(1);\n  transition: transform 0.5s ease;\n}\n.product-card__image img:nth-child(2) {\n  transform: translateX(-50%) scale(0);\n}\n.product-card__image:hover img:nth-child(1) {\n  transform: translateX(-50%) scale(0);\n}\n.product-card__image:hover img:nth-child(2) {\n  transform: translateX(-50%) scale(1);\n  transition: transform 0.5s ease;\n}\n.product-card__name {\n  margin-bottom: 10px;\n  color: #8d8d8d;\n  font-size: 1.25rem;\n  font-weight: normal;\n}\n.product-card__price {\n  color: #000;\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin-bottom: 10px;\n}\n.product-card__price__old {\n  color: #8d8d8d;\n  margin-left: 20px;\n  font-weight: 300;\n}\n@media only screen and (max-width: 1024px) {\n  .product-card__btn {\n    display: none;\n  }\n}\n\n.catalog {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog {\n    flex-direction: column;\n  }\n}\n.catalog__filter {\n  width: 20%;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n    height: 100vh;\n    background-color: #fff;\n    padding: 1rem;\n    position: fixed;\n    left: 0;\n    top: 70px;\n    z-index: 100;\n    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n    transform: translateX(-100%);\n    transition: transform 0.3s ease;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .catalog__filter {\n    top: 40px;\n  }\n}\n.catalog__filter.active {\n  transform: translateX(0);\n}\n.catalog__filter__widget {\n  margin-bottom: 2rem;\n}\n.catalog__filter__widget__title {\n  font-size: 1.25rem;\n  font-weight: 600;\n  text-transform: capitalize;\n  margin-bottom: 16px;\n}\n.catalog__filter__widget__content {\n  color: #8d8d8d;\n}\n.catalog__filter__widget__content__item {\n  margin-bottom: 13px;\n}\n.catalog__filter__close {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter__close {\n    display: block;\n    font-size: 2rem;\n    margin-bottom: 1rem;\n  }\n}\n.catalog__content {\n  flex-grow: 1;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__content {\n    width: 100%;\n  }\n}\n.catalog__filter__toggle {\n  display: none;\n}\n@media only screen and (max-width: 1024px) {\n  .catalog__filter__toggle {\n    display: block;\n    margin-bottom: 2rem;\n  }\n}\n\n.custom-checkbox {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  cursor: pointer;\n}\n.custom-checkbox:hover {\n  color: #4267b2;\n}\n.custom-checkbox input {\n  position: absolute;\n  opacity: 0;\n  cursor: pointer;\n  height: 0;\n  width: 0;\n}\n.custom-checkbox__checkmark {\n  margin-right: 10px;\n  height: 15px;\n  width: 15px;\n  border: 1px solid #8d8d8d;\n}\n.custom-checkbox__checkmark i {\n  transform: scale(0);\n  transition: transform 0.3s ease;\n}\ninput:checked ~ .custom-checkbox__checkmark {\n  background-color: #4267b2;\n  border: 1px solid #4267b2;\n  color: #fff;\n}\ninput:checked ~ .custom-checkbox__checkmark > i {\n  transform: scale(1);\n}\n\n.product {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 600px) {\n  .product {\n    flex-direction: column;\n  }\n}\n.product__images {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n  width: 60%;\n  flex-wrap: wrap;\n}\n@media only screen and (max-width: 1024px) {\n  .product__images {\n    width: 80%;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .product__images {\n    width: 100%;\n  }\n}\n.product__images__list {\n  width: 20%;\n}\n.product__images__list__item {\n  cursor: pointer;\n}\n.product__images__main {\n  flex-grow: 1;\n  padding-top: 100%;\n  position: relative;\n}\n.product__images__main img {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  height: 100%;\n  transform: translateX(-50%);\n}\n.product__info {\n  flex-grow: 1;\n  position: -webkit-sticky;\n  position: sticky;\n  top: 70px;\n  padding-top: 2rem;\n}\n@media only screen and (max-width: 600px) {\n  .product__info {\n    position: relative;\n    top: unset;\n  }\n}\n.product__info__title {\n  font-size: 2.5rem;\n  font-weight: normal;\n}\n.product__info__item {\n  margin-top: 2rem;\n}\n.product__info__item__price {\n  color: #4267b2;\n  font-size: 2rem;\n  font-weight: 600;\n}\n.product__info__item__title {\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin-bottom: 1rem;\n}\n.product__info__item__list {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n}\n.product__info__item__list__item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 50px;\n  height: 50px;\n  border-radius: 50%;\n  border: 2px solid #8d8d8d;\n  cursor: pointer;\n  margin-right: 1rem;\n}\n@media only screen and (max-width: 600px) {\n  .product__info__item__list__item {\n    width: 40px;\n    height: 40px;\n  }\n}\n.product__info__item__list__item.active {\n  border-color: #4267b2;\n}\n.product__info__item__list__item:hover {\n  border-color: #4267b2;\n}\n.product__info__item__list__item .circle {\n  width: 40px;\n  height: 40px;\n  border-radius: 50%;\n}\n@media only screen and (max-width: 600px) {\n  .product__info__item__list__item .circle {\n    width: 30px;\n    height: 30px;\n  }\n}\n.product__info__item__list__item__size {\n  font-size: 1.5rem;\n  text-transform: uppercase;\n}\n.product__info__item__quantity {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n.product__info__item__quantity__btn {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 30px;\n  height: 30px;\n  border: 2px solid #8d8d8d;\n  font-size: 1.5rem;\n  cursor: pointer;\n}\n.product__info__item__quantity__input {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  height: 30px;\n  width: 90px;\n  font-size: 1.5rem;\n  border-top: 2px solid #8d8d8d;\n  border-bottom: 2px solid #8d8d8d;\n}\n.product__info__item button {\n  margin-right: 1rem;\n  margin-bottom: 1rem;\n}\n\n.product-description {\n  width: 100%;\n  padding: 2rem 2rem 3rem;\n  height: 400px;\n  overflow: hidden;\n  position: relative;\n}\n@media only screen and (max-width: 600px) {\n  .product-description {\n    display: none;\n  }\n}\n.product-description.mobile {\n  display: none;\n}\n@media only screen and (max-width: 600px) {\n  .product-description.mobile {\n    display: block;\n  }\n}\n.product-description.expand {\n  height: -webkit-max-content;\n  height: -moz-max-content;\n  height: max-content;\n}\n.product-description__title {\n  font-size: 1.5rem;\n  font-weight: 600;\n  margin: 2rem 0;\n}\n.product-description__content {\n  font-size: 1.25rem;\n  line-height: 1.875rem;\n  text-align: justify;\n}\n.product-description__toggle {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n}\n\n.product-view__modal {\n  position: fixed;\n  z-index: 101;\n  padding-top: 100px;\n  left: 0;\n  top: 0;\n  width: 100%;\n  height: 100%;\n  overflow: auto;\n  background-color: black;\n  background-color: rgba(0, 0, 0, 0.4);\n  opacity: 0;\n  visibility: hidden;\n}\n.product-view__modal.active {\n  opacity: 1;\n  visibility: visible;\n}\n.product-view__modal__content {\n  margin: auto;\n  padding: 2rem;\n  background-color: #fff;\n  width: 50%;\n  opacity: 0;\n  transform: translateY(-250px);\n  transition: transform 0.6s ease;\n  position: relative;\n}\n.product-view__modal__content__close {\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n.product-view__modal.active .product-view__modal__content {\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.cart {\n  display: flex;\n  align-items: flex-start;\n  justify-content: flex-start;\n}\n@media only screen and (max-width: 600px) {\n  .cart {\n    flex-wrap: wrap;\n  }\n}\n.cart__list {\n  width: 60%;\n}\n@media only screen and (max-width: 600px) {\n  .cart__list {\n    width: 100%;\n  }\n}\n.cart__info {\n  padding: 20px;\n  margin-right: 30px;\n  margin-top: 30px;\n  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;\n  position: -webkit-sticky;\n  position: sticky;\n  top: calc(70px + 20px);\n}\n@media only screen and (max-width: 600px) {\n  .cart__info {\n    width: 100%;\n    margin-right: 0;\n    margin-bottom: 30px;\n    position: unset;\n  }\n}\n.cart__info__txt > * {\n  margin-bottom: 10px;\n}\n.cart__info__txt p {\n  font-size: 1.25rem;\n}\n.cart__info__txt__price {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding: 10px 0;\n  font-size: 1.25rem;\n}\n.cart__info__txt__price span:nth-child(2) {\n  font-size: 2rem;\n  color: #4267b2;\n  font-weight: 600;\n}\n.cart__info__btn > * {\n  margin-bottom: 20px;\n}\n.cart__item {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  margin-bottom: 20px;\n}\n.cart__item__image {\n  margin-right: 20px;\n}\n.cart__item__image img {\n  height: 150px;\n}\n.cart__item__info {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  flex-grow: 1;\n}\n@media only screen and (max-width: 600px) {\n  .cart__item__info {\n    display: flex;\n    align-items: flex-start;\n    justify-content: center;\n    flex-direction: column;\n  }\n  .cart__item__info > * {\n    margin-bottom: 10px;\n  }\n}\n.cart__item__info__name {\n  width: 40%;\n}\n@media only screen and (max-width: 600px) {\n  .cart__item__info__name {\n    width: 100%;\n  }\n}\n.cart__item__info__name, .cart__item__info__price {\n  font-size: 1.25rem;\n}\n.cart__item__del {\n  font-size: 1.5rem;\n}\n.cart__item__del i {\n  cursor: pointer;\n}\n.cart__item__del i:hover {\n  color: #4267b2;\n}\n\n.wrraperabout {\n  display: flex;\n}\n\n.mainabout {\n  width: 80%;\n  padding-top: 10px;\n  margin: auto;\n  display: grid;\n  grid-template-columns: 500px 500px 100px;\n  grid-template-rows: 250px 100px 100px;\n}\n\n.headabout {\n  font-size: 25px;\n  grid-column-start: 1;\n  grid-column-end: 4;\n}\n\n.contentabout {\n  padding-left: 75px;\n  margin: 30px;\n  font-size: 20px;\n}\n\nh1 {\n  text-align: center;\n}", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -15966,21 +15918,6 @@ module.exports = function (url, options) {
 
   return url;
 };
-
-/***/ }),
-
-/***/ "./resources/js/assets/image/logo.png":
-/*!********************************************!*\
-  !*** ./resources/js/assets/image/logo.png ***!
-  \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/logo.png?151dd6cb019da899732788b9c4176059");
 
 /***/ }),
 
@@ -71852,6 +71789,36 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_1_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_2_feature_css__WEBPACK_IMPORTED_MODULE_1__["default"].locals || {});
+
+/***/ }),
+
+/***/ "./resources/js/components/Footer/footer.css":
+/*!***************************************************!*\
+  !*** ./resources/js/components/Footer/footer.css ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_1_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_2_footer_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!../../../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./footer.css */ "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].oneOf[1].use[2]!./resources/js/components/Footer/footer.css");
+
+            
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_css_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_1_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_2_footer_css__WEBPACK_IMPORTED_MODULE_1__["default"], options);
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_1_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_6_oneOf_1_use_2_footer_css__WEBPACK_IMPORTED_MODULE_1__["default"].locals || {});
 
 /***/ }),
 

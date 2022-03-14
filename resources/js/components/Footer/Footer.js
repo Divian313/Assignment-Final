@@ -15,7 +15,7 @@ const Footer = () => {
                         </a>
 
                         <div className="payment">
-                            <img src="/bookcover/paymentt.jpg" alt="" />
+                            <img src="https://cdn.pixabay.com/photo/2016/11/29/12/50/bookcases-1869616_960_720.jpg" alt="" />
                         </div>
                     </div>
 
