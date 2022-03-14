@@ -27,7 +27,7 @@ const Cart = () => {
     }, [cartItems])
 
     return (
-        <Helmet title="Giỏ hàng">
+        <Helmet title="Shop">
             <div className="cart">
                 <div className="cart__info">
                     <div className="cart__info__txt">

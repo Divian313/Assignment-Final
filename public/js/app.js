@@ -9289,14 +9289,6 @@ var ProductView = function ProductView(props) {
   }, [product]);
 
   var check = function check() {
-    // if (color === undefined) {
-    //     alert('Vui lòng chọn màu sắc!')
-    //     return false
-    // }
-    // if (size === undefined) {
-    //     alert('Please select cover type')
-    //     return false
-    // }
     return true;
   };
 
@@ -9717,7 +9709,7 @@ var Cart = function Cart() {
     }, 0));
   }, [cartItems]);
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsx)(_components_Helmet__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    title: "Gi\u1ECF h\xE0ng",
+    title: "Shop",
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("div", {
       className: "cart",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxs)("div", {
@@ -10103,8 +10095,6 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
 
 var Home = function Home() {
-  console.log(123);
-
   var _useState = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)([]),
       _useState2 = _slicedToArray(_useState, 2),
       listMostDiscount = _useState2[0],
@@ -10220,7 +10210,7 @@ var Home = function Home() {
           className: "title",
           children: "On Sale"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_7__.Link, {
-          to: "/about",
+          to: "/catalog",
           className: "view-all btn",
           children: "View All"
         })]

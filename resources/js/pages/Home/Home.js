@@ -6,7 +6,7 @@ import "./home.css";
 import axios from "axios";
 
 const Home = () => {
-  console.log(123);
+
   const [listMostDiscount, setListMostDiscount] = useState([]);
   const [feature, setFeature] = useState({
     type: "",
@@ -24,12 +24,12 @@ const Home = () => {
   };
 
   const fetchRecommend = async () => {
-    const res = await axios.get("http://127.0.0.1:8000/api/books/getRecomended");    
+    const res = await axios.get("http://127.0.0.1:8000/api/books/getRecomended");
     setFeature({ ...feature, type: "recommended", featureList: res.data });
   };
 
   const fetchPopular = async () => {
-    const res = await axios.get("http://127.0.0.1:8000/api/books/getPopular");    
+    const res = await axios.get("http://127.0.0.1:8000/api/books/getPopular");
     setFeature({ ...feature, type: "popular", featureList: res.data });
   };
 
